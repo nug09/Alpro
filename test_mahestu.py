@@ -140,3 +140,5 @@ print("\n-----------RINCIAN PESANAN----------")
 print ("Pizza : ",namaPizza,namaCrust,namaUkuran, tambahCheese)
 print ("Harga Cheese : Rp.", harga_cheese)
 print ("Total Harga : Rp. ",total)
+
+print("hello world ")
